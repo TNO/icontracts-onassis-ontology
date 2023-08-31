@@ -1,4 +1,8 @@
-# Repository of Intelligent Contracts: the Onassis Ontology and the Enriched Bow-Tie Ontology
+# Repository of Intelligent Contracts: the Onassis ontology and the enriched Bow-Tie ontology
+
+This repository contains work done on Intelligent Contracts in several TNO projects.
+
+See https://github.com/TNO/icontracts-POC-website-front-end and https://github.com/TNO/icontracts-POC-website-back-end for a proof of concept website that uses the ontology in this repository.
 
 ## Onassis Ontology 
 
